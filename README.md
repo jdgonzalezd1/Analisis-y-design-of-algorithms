@@ -1,8 +1,6 @@
 # Análisis y diseño de Algoritmos #
 ## Espacio dedicado a la Algoritmia
 ***
-![prueba][img]
-[img]:C:\Users\juan3\Pictures\quemmdaslamjorimagn.jpg
 El presente repositorio está partido en 3 partes
 - [Primer corte][primer]
 - [Segundo corte][segun]
