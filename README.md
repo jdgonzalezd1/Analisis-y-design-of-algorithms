@@ -15,7 +15,8 @@ cuentran en este mismo repositorio.
 ### ***Segundo corte***
 En el [Segundo corte][segun] empezamos a trabajar métodos de ordenamiento y recursividad en los ejercicios  
 propuestos, lo que incrementó la dificultad de ellos. Un ejemplo del uso de la recursividad en los algorit-  
-mos puede ser el ejercicio de encontrar una cadena en una [matriz][buscarCadena] o el ejercicio de
+mos puede ser el ejercicio de encontrar una cadena en una [matriz][buscarCadena] o el ejercicio de hallar  
+[palindromos][palin] que se encuentran en este repositorio.
 
 [primer]:https://github.com/jdgonzalezd1/Analisis-y-design-of-algorithms/tree/master/Algoritmos%20Primer%20Corte
 [segun]:https://github.com/jdgonzalezd1/Analisis-y-design-of-algorithms/tree/master/Algoritmos%20Segundo%20Corte
@@ -23,3 +24,4 @@ mos puede ser el ejercicio de encontrar una cadena en una [matriz][buscarCadena]
 [alumnos]:https://github.com/jdgonzalezd1/Analisis-y-design-of-algorithms/blob/master/Algoritmos%20Primer%20Corte/Alumnos.java
 [ages]:https://github.com/jdgonzalezd1/Analisis-y-design-of-algorithms/blob/master/Algoritmos%20Primer%20Corte/Ages.java
 [buscarCadena]:https://github.com/jdgonzalezd1/Analisis-y-design-of-algorithms/blob/master/Algoritmos%20Segundo%20Corte/Taller4/src/parte2/recursivos/BuscarCadenaROK.java
+[palin]:https://github.com/jdgonzalezd1/Analisis-y-design-of-algorithms/blob/master/Algoritmos%20Segundo%20Corte/Taller4/src/parte3/Palindromo.java
